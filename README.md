@@ -1,5 +1,3 @@
----
-
 # 👁️ THE CHAOS BROWSER
 
 > **WARNING:** This simulation contains flashing lights, sudden audio distortions, and existential dread. Proceed with caution.
@@ -8,7 +6,6 @@ The **Chaos Browser** (`Netscape_Ghost.exe`) is a liminal web simulation built w
 
 As the user browses, the system's **Entropy** increases, causing visual decay, audio distortion, and UI hostility.
 
----
 
 ## 💀 Features
 
